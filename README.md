@@ -6,5 +6,3 @@ Infinite Scroll of posts fetched from https://jsonplaceholder.typicode.com/
 
 HTML5, CSS3, JS
 
-## Live URL
-[Click Here](https://paulranjan694.github.io/infinite-scroll/)
